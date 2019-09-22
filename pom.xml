@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>dev.openrs2</groupId>
+    <artifactId>openrs2-parent</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+  </parent>
+
+  <artifactId>openrs2-version-rules</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <packaging>jar</packaging>
+
+  <name>OpenRS2 Version Rules</name>
+  <description>OpenRS2 ruleset for versions-maven-plugin.</description>
+
+  <scm>
+    <connection>scm:git:https://git.openrs2.dev/openrs2/openrs2-version-rules.git</connection>
+    <developerConnection>scm:git:git@git.openrs2.dev:openrs2/openrs2-version-rules.git</developerConnection>
+    <url>https://git.openrs2.dev/openrs2/openrs2-version-rules</url>
+  </scm>
+  <issueManagement>
+    <system>Gitea</system>
+    <url>https://git.openrs2.dev/openrs2/openrs2-version-rules/issues</url>
+  </issueManagement>
+  <ciManagement>
+    <system>Jenkins</system>
+    <url>https://build.openrs2.dev/job/openrs2-version-rules/</url>
+  </ciManagement>
+
+  <repositories>
+    <repository>
+      <id>openrs2</id>
+      <name>OpenRS2</name>
+      <url>https://repo.openrs2.dev/repository/openrs2/</url>
+      <releases>
+        <enabled>true</enabled>
+      </releases>
+      <snapshots>
+        <enabled>false</enabled>
+      </snapshots>
+    </repository>
+    <repository>
+      <id>openrs2-snapshots</id>
+      <name>OpenRS2 Snapshots</name>
+      <url>https://repo.openrs2.dev/repository/openrs2-snapshots/</url>
+      <releases>
+        <enabled>false</enabled>
+      </releases>
+      <snapshots>
+        <enabled>true</enabled>
+      </snapshots>
+    </repository>
+  </repositories>
+</project>

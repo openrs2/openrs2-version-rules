@@ -1,0 +1,8 @@
+.*
+!.editorconfig
+!.git*
+!.mailmap
+*.iml
+*~
+/target
+hs_err_pid*.log
