@@ -1,5 +1,7 @@
 # OpenRS2 Version Rules
 
+[![Build status badge](https://build.openrs2.dev/buildStatus/icon?job=openrs2-version-rules&build=lastCompleted)](https://build.openrs2.dev/job/openrs2-version-rules/)
+
 ## Copyright
 
 Copyright (c) 2019 OpenRS2 Authors
