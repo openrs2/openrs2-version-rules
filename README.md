@@ -7,8 +7,9 @@
 Copyright (c) 2019-2020 OpenRS2 Authors
 
 OpenRS2 Version Rules is free software: you can redistribute it and/or modify
-it under the terms of version 3.0 of the GNU General Public License as
-published by the Free Software Foundation.
+it under the terms of the GNU General Public License as published by the Free
+Software Foundation, either version 3 of the License, or (at your option) any
+later version.
 
 OpenRS2 Version Rules is distributed in the hope that it will be useful, but
 WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
