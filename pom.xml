@@ -26,8 +26,8 @@
     <url>https://git.openrs2.dev/openrs2/openrs2-version-rules/issues</url>
   </issueManagement>
   <ciManagement>
-    <system>Jenkins</system>
-    <url>https://build.openrs2.dev/job/openrs2-version-rules/</url>
+    <system>Drone</system>
+    <url>https://build.openrs2.dev/openrs2/openrs2-version-rules/</url>
   </ciManagement>
 
   <repositories>
