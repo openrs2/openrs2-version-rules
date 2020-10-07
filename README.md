@@ -1,6 +1,6 @@
 # OpenRS2 Version Rules
 
-[![Build status badge](https://build.openrs2.dev/api/badges/openrs2/openrs2-version-rules/status.svg)](https://build.openrs2.dev/openrs2/openrs2-version-rules/)
+[![Build status badge](https://build.openrs2.org/api/badges/openrs2/openrs2-version-rules/status.svg)](https://build.openrs2.org/openrs2/openrs2-version-rules/)
 
 ## License
 
