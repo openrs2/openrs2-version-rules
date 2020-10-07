@@ -9,7 +9,7 @@
   </parent>
 
   <artifactId>openrs2-version-rules</artifactId>
-  <version>1.0.2-SNAPSHOT</version>
+  <version>1.0.2</version>
   <packaging>jar</packaging>
 
   <name>OpenRS2 Version Rules</name>
@@ -19,7 +19,7 @@
     <connection>scm:git:https://git.openrs2.org/openrs2/openrs2-version-rules.git</connection>
     <developerConnection>scm:git:git@git.openrs2.org:openrs2/openrs2-version-rules.git</developerConnection>
     <url>https://git.openrs2.org/openrs2/openrs2-version-rules</url>
-    <tag>HEAD</tag>
+    <tag>v1.0.2</tag>
   </scm>
   <issueManagement>
     <system>Gitea</system>
